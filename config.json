@@ -1,5 +1,5 @@
 
 {
-  "db_url": "mysql+pymysql://root:Alakai45.?1@localhost/howden_test",
+  "db_url": "mysql+pymysql://root:Alakai45.?1@localhost/claimdevelopment",
   "api_key": "e19960dac1486d2fa49708fe"
 }
